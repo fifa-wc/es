@@ -9,7 +9,7 @@
 
 
 
-<script src="https://cdn.jsdelivr.net/gh/ura23hash/views@main/ar-sp-nm.js" id="query" value="query"></script><!DOCTYPE html>
+<script src="https://fifa-wc.github.io/es/ufc-today.js" id="query" value="query"></script></script><!DOCTYPE html>
 
 <html lang="en">
 <head><meta charSet="utf-8"/>
